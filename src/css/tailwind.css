@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@layer components{
+    .input-style{
+      @apply w-60 h-12 border-none focus:outline-none text-white/50 text-center rounded-md bg-secondary;
+    }
+    .hr-style{
+      @apply w-9 h-1 border-none bg-white rounded-md;
+    }
+    .hr2-style{
+      @apply w-7 h-1 border-none bg-white rounded-md;
+    }
+}

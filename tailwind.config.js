@@ -5,7 +5,7 @@ module.exports = {
     colors:{
       transparent:"transparent",
       primary: "#280274",
-      secondary: "#424769",
+      secondary: "#2D3250",
       tertiary: "#910A67",
       black: "#000000",
       white: "#f3f3f3",
